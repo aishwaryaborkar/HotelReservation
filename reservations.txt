@@ -1,0 +1,23 @@
+Room 100
+Guest e-mail: kristani.alcantara@sjsu.edu
+Check-in date: 12/10/2014
+Check-out date: 12/12/2014
+Cost: 240.0
+
+Room 101
+Guest e-mail: kristani.alcantara@sjsu.edu
+Check-in date: 12/10/2014
+Check-out date: 12/13/2014
+Cost: 320.0
+
+Room 200
+Guest e-mail: aishwarya.borkar@sjsu.edu
+Check-in date: 12/20/2014
+Check-out date: 12/22/2014
+Cost: 600.0
+
+Room 201
+Guest e-mail: aishwarya.borkar@sjsu.edu
+Check-in date: 12/20/2014
+Check-out date: 12/23/2014
+Cost: 800.0
